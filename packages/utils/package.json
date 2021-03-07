@@ -16,9 +16,8 @@
   "scripts": {
     "test": "echo \"Run testing from utils \""
   },
-  "gitHead": "9ec0dba1a3b501021577f185724cdcba0a24b6fd",
+  "gitHead": "fbbbb89c7c4a292740ee71067901a200abcfc3e1",
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/",
     "access": "public"
   }
 }

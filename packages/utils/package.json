@@ -18,8 +18,5 @@
   },
   "scripts": {
     "test": "echo \"Run testing from utils \""
-  },
-  "dependencies": {
-    
   }
 }

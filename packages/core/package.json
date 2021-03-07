@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "heisenberg-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -21,5 +24,6 @@
   },
   "dependencies": {
     "@heisenberg-cli-dev/utils": "^1.0.0"
-  }
+  },
+  "gitHead": "179027f4b023b86f4179343e5bb68e3ddc3a635e"
 }

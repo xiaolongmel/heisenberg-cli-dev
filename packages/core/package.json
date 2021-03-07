@@ -1,6 +1,6 @@
 {
   "name": "@heisenberg-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "xux <12345678>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"Run testing from core \""
   },
   "dependencies": {
-    "@heisenberg-cli-dev/utils": "^1.0.0"
+    "@heisenberg-cli-dev/utils": "^1.0.1"
   },
   "gitHead": "179027f4b023b86f4179343e5bb68e3ddc3a635e"
 }
